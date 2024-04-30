@@ -1,0 +1,18 @@
+fragment publication on Publication {
+  id
+  title
+  format
+  authorsFormatted
+  authors {
+    id
+    name
+  }
+  thumbnailUri
+  ... on AudiobookPublication {
+    downloadUri
+    streamingUri
+  }
+  ... on EbookPublication {
+    downloadUri
+  }
+}

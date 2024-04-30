@@ -1,0 +1,12 @@
+query CmsScreen($slug: String!) {
+  cmsScreen(slug: $slug) {
+    ... on CmsScreen {
+      id
+      slug
+      screenItems {
+        ...cmsScreenItem
+      }
+    }
+    ...error
+  }
+}

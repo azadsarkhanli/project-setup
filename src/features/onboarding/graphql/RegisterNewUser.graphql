@@ -1,0 +1,13 @@
+mutation RegisterNewUser($input: RegisterNewUserDto!) {
+  registerNewUser(input: $input) {
+    ...token
+    ...error
+    ... on InvalidFormFieldsExternalError {
+      formFields {
+        field
+        error
+        type
+      }
+    }
+  }
+}

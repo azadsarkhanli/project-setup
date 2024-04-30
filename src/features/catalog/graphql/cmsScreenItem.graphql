@@ -1,0 +1,35 @@
+fragment cmsScreenItem on CmsScreenItem {
+  ... on BookshelfScreenItem {
+    id
+    title {
+      ...translatedString
+    }
+    description {
+      ...translatedString
+    }
+  }
+  ... on ScreenItemList {
+    id
+    title {
+      ...translatedString
+    }
+    description {
+      ...translatedString
+    }
+    items {
+      ...productMetadata
+    }
+  }
+  ... on GenresScreenItem {
+    id
+    title {
+      ...translatedString
+    }
+    description {
+      ...translatedString
+    }
+    genres {
+      ...genreItem
+    }
+  }
+}

@@ -1,0 +1,11 @@
+fragment token on TokenWithUser {
+  token {
+    accessToken
+    refreshToken
+    expiresAt
+    idToken
+  }
+  user {
+    ...user
+  }
+}

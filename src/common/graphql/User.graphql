@@ -1,0 +1,6 @@
+query User($fullRefresh: Boolean) {
+  user(fullRefresh: $fullRefresh) {
+    ...user
+    ...error
+  }
+}

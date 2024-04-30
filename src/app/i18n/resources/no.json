@@ -1,0 +1,354 @@
+{
+  "catalog": {
+    "bookCard": {
+      "audiobook": "Lydbok",
+      "badgeNew": "Ny",
+      "coverImageAlt": "\"{{title}}\" book cover",
+      "ebook": "E-bok",
+      "label": "\"{{title}}\" book card",
+      "menu": {
+        "continueListening": "Fortsett å lytte",
+        "continueReading": "Fortsett å lytte",
+        "download": "Last ned",
+        "removeFromDevice": "Slett"
+      }
+    },
+    "downloadScreen": {
+      "author": "{{authors}}",
+      "download": "Last ned",
+      "downloadProgress": "{{progress}} lastet ned",
+      "goBack": "Tilbake"
+    },
+    "homeScreen": {
+      "recentBooks": {
+        "bookshelfLink": "Min bokhylle",
+        "title": "Fortsett der jeg slapp"
+      },
+      "title": "Hjem"
+    },
+    "libraryScreen": {
+      "filters": {
+        "all": "Alle",
+        "audiobook": "Lydbok",
+        "ebook": "E-bok"
+      },
+      "subtitle_one": "{{count}} bok",
+      "subtitle_other": "{{count}} bøker",
+      "title": "Bibliotek"
+    },
+    "navigation": {
+      "home": "Hjem",
+      "library": "Bibliotek",
+      "profile": "Min side",
+      "search": "Søk"
+    },
+    "productScreen": {
+      "description": {
+        "readMore": "Les mer",
+        "title": "Kort om boken"
+      },
+      "download": {
+        "download": "Last ned",
+        "downloading": "Laster ned",
+        "remove":  "Slett fra enhet"
+      },
+      "features": {
+        "isbn": "ISBN",
+        "language": "Språk",
+        "pages": "Sider",
+        "playTime": "Spilletid",
+        "publisher": "Forlag",
+        "readerVoice": "Lest av",
+        "releaseDate": "Utgitt",
+        "seriesTitle": "Serie",
+        "title_AUDIOBOOK": "Lydbok",
+        "title_EBOOK": "eBok"
+      },
+      "genres": "Sjangere",
+      "openAudiobook": "Spill av lydbok",
+      "openEbook": "Les bok",
+      "purchase": {
+        "button": "Gå til ARK.no",
+        "description": "Når kjøpet er gjennomført vil boken vises automatisk i appen.",
+        "title": "E-bok og lydbok er tilgjengelig på ARK.no"
+      }
+    },
+    "profileScreen": {
+      "appVersion": "Ark App versjon {{version}}",
+      "menuItems": {
+        "leaveFeedback": "Gi tilbakemelding",
+        "logout": "Logg ut"
+      },
+      "title": "Min side",
+      "userInfo": "Logget in som <1>{{email}}</1>"
+    }
+  },
+  "common": {
+    "alertRemoveConfirmation": {
+      "buttonCancel": "Avbryt",
+      "buttonRemove": "Slett",
+      "removeAudiobookHeader": "Er du sikker på at du vil slette lydboken fra din telefon?",
+      "removeEbookHeader": "Er du sikker på at du vil slette e-boken fra din telefon?"
+    },
+    "emptyScreen": {
+      "button": "Gå til ARK.no",
+      "description": "E-bøker og lydbøker du kjøper på ARK.no vil vises her",
+      "title": "Biblioteket ditt er tomt"
+    },
+    "errorScreen": {
+      "clearDataAndRestartButton": "Logg ut og restart appen",
+      "default": {
+        "description": "Vi opplever noe feil i maskineriet. Du må dessverre starte appen på nytt.",
+        "title": "Oops, en feil oppstod"
+      },
+      "networkError": {
+        "description": "Vennligst sjekk din internettforbindelse og forsøk igjen.",
+        "title": "Ingen nettforbindelse"
+      },
+      "notFoundError": {
+        "description": "Vi kunne ikke finne produktet, vennligst prøv på nytt eller velg et annet.",
+        "title": "Oops, en feil oppstod"
+      },
+      "restartButton": "Restart appen",
+      "tryAgainButton": "Prøv igjen"
+    },
+    "errorToast": {
+      "default": {
+        "title": "En feil oppstod"
+      },
+      "invalidCode": {
+        "title": "Koden er ugyldig eller utløpt"
+      }
+    },
+    "highlight": {
+      "date": "{{date, dateWithDow}}"
+    }
+  },
+  "onboarding": {
+    "appOutdated": {
+      "appOutdatedText": "Du bruker en utdatert versjon av ARK-appen, vennligst oppdater.",
+      "title": "Oppdater ARK-appen",
+      "updateButton": "Oppdater"
+    },
+    "loginApprovalScreen": {
+      "error": {
+        "description": "Vennligst sjekk din internettforbindelse og forsøk igjen.",
+        "title": "Oops, en feil oppstod"
+      },
+      "notReceivedText": "Ikke mottatt e-post? Husk å sjekke søppelpost.",
+      "openEmailActionsheet": {
+        "message": "Åpne i",
+        "title": "Åpne e-post"
+      },
+      "openEmailButton": "Åpne e-post",
+      "resendButton": "Send e-post på nytt",
+      "subtitle": "Vi har sendt deg en lenke for å logge inn i appen.",
+      "title": "Sjekk e-posten din!"
+    },
+    "loginScreen": {
+      "label": "Din e-postadresse",
+      "placeholder": "for@eksempel.no",
+      "submit": "Få lenke for å logge inn",
+      "subtitle": "Skriv inn din e-post, så sender vi deg en lenke som logger deg inn automatisk.",
+      "title": "Logg inn",
+      "validation": {
+        "email": "E-postadressen er ugyldig",
+        "required": "Dette feltet er påkrevd",
+        "userNotFound": "Fant ingen ARK-bruker på den e-posten. Prøv igjen, eller gå tilbake for å opprette en bruker."
+      }
+    },
+    "registerNewUserScreen": {
+      "arkFriend": "Jeg vil bli ARK-venn for å motta tilbud og anbefalinger",
+      "labels": {
+        "city": "By",
+        "confirmPassword": "Bekreft passord",
+        "email": "E-postadresse",
+        "firstName": "Fornavn",
+        "lastName": "Etternavn",
+        "password": "Ditt passord",
+        "phone": "Telefonnummer",
+        "street": "Gate",
+        "streetNumber": "Gatenummer",
+        "zipCode": "Postal code"
+      },
+      "submit": "Neste",
+      "terms": "Ved å registrere deg godtar du ",
+      "termsLink": "vilkårene for tjenesten.",
+      "title": "Opprett bruker",
+      "validation": {
+        "email": "E-postadressen er ugyldig",
+        "emailAlreadyInUse": "Denne e-postadressen er allerede i bruk.",
+        "genericFieldInvalid": "Verdien er ugyldig",
+        "passswordLength": "Minimum 8 tegn",
+        "passwordMismatch": "Passordene du skrev er ikke like. Sjekk at de er stavet riktig og prøv på nytt.",
+        "phone": "Oppgi et gyldig telefonnummer i Norge, 8 siffer uten mellomrom.",
+        "required": "Dette feltet er påkrevd"
+      }
+    },
+    "welcomeNewUserScreen": {
+      "bokskyaImportTitle": "Du kommer ikke tomhendt!",
+      "bokskyaImportTitleDescription": "Du har allerede {{numberOfBooks}} bøker tilgjengelig, du finner dem i biblioteket ditt i appen.",
+      "finish": "Ferdig",
+      "next": "Neste",
+      "registrationConfirmationDescription": "Les og lytt til dine bøker i appen",
+      "registrationConfirmationTitle": "Kontoen din er klar til bruk"
+    },
+    "welcomeScreen": {
+      "body": "E-bøkene og lydbøkene du har kjøpt på ARK.no er automatisk tilgjengelig i appen",
+      "heading": "Les og lytt til dine favorittbøker",
+      "loginButton": "Logg inn",
+      "loginButtonLabel": "\"Logg inn\" knapp",
+      "registerButton": "Opprett bruker",
+      "registerButtonLabel": "\"Opprett bruker\" knapp"
+    }
+  },
+  "player": {
+    "audiobookSummary": {
+      "coverImageAltText": "Omslag til lydbok"
+    },
+    "devicesMenu": {
+      "buttonListeningDevices": "Lytteenheter"
+    },
+    "miniPlayer": {
+      "authorAndTitle": "{{author}} · {{title}}",
+      "leftDuration": "{{hours}}t {{minutes}}m {{seconds}}s igjen"
+    },
+    "playbackControls": {
+      "buttonBackwardLabel": "Hopper tilbake 15 sekunder",
+      "buttonForwardLabel": "Hopper framover 30 sekunder",
+      "buttonPauseLabel": "Sett lydboken på pause",
+      "buttonPlayLabel": "Spill av lydboken"
+    },
+    "playbackProgress": {
+      "leftDuration": "- {{hours}}:{{minutes}}:{{seconds}}",
+      "leftTimeHint": "Tid igjen",
+      "progressDuration": "{{hours}}:{{minutes}}:{{seconds}}",
+      "progressSliderLabel": "Skyveknapp for avspillingsfremgang",
+      "progressTimeHint": "Gjeldende avspillingstid"
+    },
+    "playbackSettings": {
+      "speed": "Fortellerhastighet",
+      "speedSliderLabel": "Skyveknapp for fortellerhastighet"
+    },
+    "playerMenu": {
+      "outline": {
+        "bookmarks": {
+          "bookmarkTime": "{{hours}}:{{minutes}}:{{seconds}}",
+          "buttonContinue": "Fortsett der jeg slapp",
+          "createdAt": "{{date, dateWithDow}}"
+        },
+        "titleBookmarks": "Bokmerker"
+      }
+    },
+    "publicationMenu": {
+      "alertRemove": {
+        "body": "Boken forblir i biblioteket ditt, men tar ikke opp plass på enheten din. Du kan laste den ned igjen når som helst for å fortsette å lese/lytte.",
+        "buttonCancel": "Avbryt",
+        "buttonRemove": "Slett",
+        "header": "Er du sikker?"
+      },
+      "alertRemoveConfirmation": {
+        "buttonGoToHome": "Gå til hjemskjerm",
+        "header": "Boken er slettet"
+      },
+      "options": {
+        "about": "Om boken",
+        "remove": "Slett"
+      }
+    },
+    "sleepTimer": {
+      "cancelButton": "Avbryt",
+      "countdownLong": "{{hours}}:{{minutes}}:{{seconds}}",
+      "countdownShort": "{{minutes}}:{{seconds}}",
+      "optionLabel": "{{minutes}} minutter",
+      "title": "Sovefunksjon"
+    }
+  },
+  "reader": {
+    "bookmarks": {
+      "contextMenu": {
+        "delete": "Slett bokmerke",
+        "navigate": "Gå til bokmerke"
+      },
+      "empty": "Ingen bokmerker er lagt til"
+    },
+    "positionSlider": {
+      "label": "Side {{position}} av {{positionsCount}}"
+    },
+    "readerMenu": {
+      "bookmarks": {
+        "addConfirmation": "Bokmerke lagt til",
+        "buttonUndo": "Angre",
+        "label": "Bokmerker",
+        "removeConfirmation": "Bokmerke slettet"
+      },
+      "font": {
+        "label": "Font"
+      },
+      "outline": {
+        "bookmarks": {
+          "bookmarksCount_one": "{{count}} bokmerke",
+          "bookmarksCount_other": "{{count}} bokmerker",
+          "buttonContinue": "Fortsett til siste leste side",
+          "createdAt": "{{date, dateWithDow}}",
+          "page": "SIDE {{count}}"
+        },
+        "tabBookmarks": "Bokmerker",
+        "tabTableOfContents": "Innholdsfortegnelse",
+        "tableOfContents": {
+          "readingNow": "Leser nå"
+        }
+      },
+      "readingExperience": {
+        "autoNightMode": {
+          "label": "Automatisk Nattmodus",
+          "switchLabel": "Bytter automatisk mellom dag- og nattmodus"
+        },
+        "colorMode": {
+          "defaultColorsLabel": "Standard fargepalett",
+          "label": "Fargepalett",
+          "nightColorsLabel": "Mørk fargepalett",
+          "sepiaColorsLabel": "Oransje fargepalett"
+        },
+        "displayBrightness": "Lysstyrke på skjermen",
+        "fontFamily": "Font",
+        "fontSize": "Fontstørrelse",
+        "label": "Innstillinger for leser",
+        "lineSpacing": "Linjeavstand"
+      },
+      "tableOfContents": {
+        "label": "Innholdsfortegnelse"
+      }
+    }
+  },
+  "search": {
+    "bookResultCard": {
+      "noTitle": "Ingen tittel"
+    },
+    "genreList": {
+      "showLess": "Vis mer",
+      "showMore": "Vis mindre"
+    },
+    "search": "Søk",
+    "searchBox": {
+      "placeholder": "Bok, forfatter, sjanger eller ISBN"
+    },
+    "searchQueryList": {
+      "clear": "Fjern"
+    },
+    "searchScreen": {
+      "browseAllGenres": "Vis alle sjangere",
+      "callToAction": "Søk etter lydbøker og e-bøker fra ARK",
+      "popularSearches": "Populære søk",
+      "recentlySearched": "Nylig søkt",
+      "results": "Resultater",
+      "yourTopGenres": "Dine topp sjangere"
+    }
+  },
+  "storybook": {
+    "keyWithCount_one": "{{count}} element",
+    "keyWithCount_other": "{{count}} elementer",
+    "key_one": "element",
+    "key_other": "elementer"
+  }
+}

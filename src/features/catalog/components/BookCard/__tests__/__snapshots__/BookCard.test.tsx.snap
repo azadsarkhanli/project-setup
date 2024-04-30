@@ -1,0 +1,1820 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders "new" badge correctly 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Angels and Demons\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Angels and Demons\\" book cover"
+          alt="\\"Angels and Demons\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      >
+        <View
+          colorScheme="secondary"
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#218372",
+              "borderColor": "transparent",
+              "borderRadius": 4,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "paddingBottom": 1,
+              "paddingLeft": 8,
+              "paddingRight": 8,
+              "paddingTop": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "backgroundColor": undefined,
+                "color": "#f3f7f6",
+                "fontFamily": "HaasGrotTextRApp-65Medium",
+                "fontSize": 12,
+                "fontStyle": undefined,
+                "fontWeight": undefined,
+                "letterSpacing": 0,
+                "lineHeight": 18,
+                "textDecorationLine": undefined,
+                "textTransform": "uppercase",
+              }
+            }
+          >
+            Ny
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders book type icons correctly if all types are available 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Angels and Demons\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Angels and Demons\\" book cover"
+          alt="\\"Angels and Demons\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      >
+        <View
+          colorScheme="secondary"
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#218372",
+              "borderColor": "transparent",
+              "borderRadius": 4,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "paddingBottom": 4,
+              "paddingLeft": 8,
+              "paddingRight": 8,
+              "paddingTop": 4,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <RNSVGSvgView
+              accessibilityRole="image"
+              align="xMidYMid"
+              bbHeight={12}
+              bbWidth={12}
+              color={4294178806}
+              focusable={false}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              stroke=""
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  Object {
+                    "color": "#f3f7f6",
+                    "height": 12,
+                    "width": 12,
+                  },
+                  Object {
+                    "flex": 0,
+                    "height": 12,
+                    "width": 12,
+                  },
+                ]
+              }
+              tintColor={4294178806}
+              vbHeight={24}
+              vbWidth={24}
+            >
+              <RNSVGGroup
+                propList={
+                  Array [
+                    "stroke",
+                  ]
+                }
+                stroke={null}
+              >
+                <RNSVGGroup>
+                  <RNSVGPath
+                    d="M21.748 3.25c.298-.005.591.082.84.248a1.5 1.5 0 0 1 .661 1.247v13.498a1.5 1.5 0 0 1-1.5 1.5c-5.373 0-7.484.999-8.688 2.194a.183.183 0 0 1-.313-.131V6.005c0-.216.094-.421.256-.563a6.685 6.685 0 0 1 1.514-.974c1.694-.81 4.06-1.204 7.23-1.218ZM2.25 3.25c3.169.014 5.536.41 7.23 1.218h-.001a6.694 6.694 0 0 1 1.513.975.745.745 0 0 1 .256.563v15.8a.193.193 0 0 1-.324.142c-2.002-1.892-5.343-2.203-8.674-2.203-.855 0-1.5-.684-1.5-1.59V4.744c0-.5.246-.966.66-1.245.248-.167.54-.255.84-.25Z"
+                    fill={
+                      Array [
+                        2,
+                      ]
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                        "stroke",
+                      ]
+                    }
+                    stroke={null}
+                  />
+                </RNSVGGroup>
+              </RNSVGGroup>
+            </RNSVGSvgView>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "width": 117,
+        }
+      }
+      testID="bookStatusSectionContainer"
+    >
+      <View
+        style={
+          Object {
+            "marginTop": 8,
+          }
+        }
+      >
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#fafaf9",
+              "fontFamily": "HaasGrotTextRApp-65Medium",
+              "fontSize": 14,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 21,
+              "textDecorationLine": undefined,
+            }
+          }
+          testID="bookTitle"
+        >
+          Angels and Demons
+        </Text>
+        <View
+          style={Object {}}
+        />
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#2ba692",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 12,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 18,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          J. K. Rowling
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders book type icons correctly if no type is available 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Angels and Demons\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Angels and Demons\\" book cover"
+          alt="\\"Angels and Demons\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      >
+        <View
+          colorScheme="secondary"
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#218372",
+              "borderColor": "transparent",
+              "borderRadius": 4,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "paddingBottom": 4,
+              "paddingLeft": 8,
+              "paddingRight": 8,
+              "paddingTop": 4,
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <RNSVGSvgView
+              accessibilityRole="image"
+              align="xMidYMid"
+              bbHeight={12}
+              bbWidth={12}
+              color={4294178806}
+              focusable={false}
+              meetOrSlice={0}
+              minX={0}
+              minY={0}
+              stroke=""
+              style={
+                Array [
+                  Object {
+                    "backgroundColor": "transparent",
+                    "borderWidth": 0,
+                  },
+                  Object {
+                    "color": "#f3f7f6",
+                    "height": 12,
+                    "width": 12,
+                  },
+                  Object {
+                    "flex": 0,
+                    "height": 12,
+                    "width": 12,
+                  },
+                ]
+              }
+              tintColor={4294178806}
+              vbHeight={24}
+              vbWidth={24}
+            >
+              <RNSVGGroup
+                propList={
+                  Array [
+                    "stroke",
+                  ]
+                }
+                stroke={null}
+              >
+                <RNSVGGroup>
+                  <RNSVGPath
+                    d="M21.748 3.25c.298-.005.591.082.84.248a1.5 1.5 0 0 1 .661 1.247v13.498a1.5 1.5 0 0 1-1.5 1.5c-5.373 0-7.484.999-8.688 2.194a.183.183 0 0 1-.313-.131V6.005c0-.216.094-.421.256-.563a6.685 6.685 0 0 1 1.514-.974c1.694-.81 4.06-1.204 7.23-1.218ZM2.25 3.25c3.169.014 5.536.41 7.23 1.218h-.001a6.694 6.694 0 0 1 1.513.975.745.745 0 0 1 .256.563v15.8a.193.193 0 0 1-.324.142c-2.002-1.892-5.343-2.203-8.674-2.203-.855 0-1.5-.684-1.5-1.59V4.744c0-.5.246-.966.66-1.245.248-.167.54-.255.84-.25Z"
+                    fill={
+                      Array [
+                        2,
+                      ]
+                    }
+                    propList={
+                      Array [
+                        "fill",
+                        "stroke",
+                      ]
+                    }
+                    stroke={null}
+                  />
+                </RNSVGGroup>
+              </RNSVGGroup>
+            </RNSVGSvgView>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "width": 117,
+        }
+      }
+      testID="bookStatusSectionContainer"
+    >
+      <View
+        style={
+          Object {
+            "marginTop": 8,
+          }
+        }
+      >
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#fafaf9",
+              "fontFamily": "HaasGrotTextRApp-65Medium",
+              "fontSize": 14,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 21,
+              "textDecorationLine": undefined,
+            }
+          }
+          testID="bookTitle"
+        >
+          Angels and Demons
+        </Text>
+        <View
+          style={Object {}}
+        />
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#2ba692",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 12,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 18,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          J. K. Rowling
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders correctly with minimal set of params 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Angels and Demons\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Angels and Demons\\" book cover"
+          alt="\\"Angels and Demons\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders long title correctly 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Girl with the Dragon Tattoo, The Millennium Trilogy\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Girl with the Dragon Tattoo, The Millennium Trilogy\\" book cover"
+          alt="\\"Girl with the Dragon Tattoo, The Millennium Trilogy\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "width": 117,
+        }
+      }
+      testID="bookStatusSectionContainer"
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginTop": 8,
+          }
+        }
+      >
+        <RNSVGSvgView
+          accessibilityRole="image"
+          align="xMidYMid"
+          bbHeight={16}
+          bbWidth={16}
+          color={4288823810}
+          focusable={false}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          stroke=""
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "color": "#a24202",
+                "height": 16,
+                "marginLeft": 3,
+                "width": 16,
+              },
+              Object {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          tintColor={4288823810}
+          vbHeight={24}
+          vbWidth={24}
+        >
+          <RNSVGGroup
+            propList={
+              Array [
+                "stroke",
+              ]
+            }
+            stroke={null}
+          >
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M21.748 3.25c.298-.005.591.082.84.248a1.5 1.5 0 0 1 .661 1.247v13.498a1.5 1.5 0 0 1-1.5 1.5c-5.373 0-7.484.999-8.688 2.194a.183.183 0 0 1-.313-.131V6.005c0-.216.094-.421.256-.563a6.685 6.685 0 0 1 1.514-.974c1.694-.81 4.06-1.204 7.23-1.218ZM2.25 3.25c3.169.014 5.536.41 7.23 1.218h-.001a6.694 6.694 0 0 1 1.513.975.745.745 0 0 1 .256.563v15.8a.193.193 0 0 1-.324.142c-2.002-1.892-5.343-2.203-8.674-2.203-.855 0-1.5-.684-1.5-1.59V4.744c0-.5.246-.966.66-1.245.248-.167.54-.255.84-.25Z"
+                fill={
+                  Array [
+                    2,
+                  ]
+                }
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={null}
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <View
+          accessibilityRole="progressbar"
+          accessibilityValue={
+            Object {
+              "max": 100,
+              "min": 0,
+              "now": 0,
+            }
+          }
+          accessible={true}
+          colorScheme="primary"
+          isIndeterminate={false}
+          style={
+            Object {
+              "backgroundColor": "#fecea4",
+              "borderRadius": 9999,
+              "flex": 1,
+              "height": 4,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eb6a00",
+                "display": "flex",
+                "elevation": 1,
+                "height": "100%",
+                "justifyContent": "center",
+                "shadowColor": "#000000",
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.18,
+                "shadowRadius": 1,
+                "width": "0%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <Text
+          numberOfLines={1}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#c24e00",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 11,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 16.5,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          0%
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginTop": 8,
+          }
+        }
+      >
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#fafaf9",
+              "fontFamily": "HaasGrotTextRApp-65Medium",
+              "fontSize": 14,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 21,
+              "textDecorationLine": undefined,
+            }
+          }
+          testID="bookTitle"
+        >
+          Girl with the Dragon Tattoo, The Millennium Trilogy
+        </Text>
+        <View
+          style={Object {}}
+        />
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#2ba692",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 12,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 18,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          J. K. Rowling
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders meta info correctly 1`] = `
+<View
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Angels and Demons\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Angels and Demons\\" book cover"
+          alt="\\"Angels and Demons\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "width": 117,
+        }
+      }
+      testID="bookStatusSectionContainer"
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginTop": 8,
+          }
+        }
+      >
+        <RNSVGSvgView
+          accessibilityRole="image"
+          align="xMidYMid"
+          bbHeight={16}
+          bbWidth={16}
+          color={4288823810}
+          focusable={false}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          stroke=""
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "color": "#a24202",
+                "height": 16,
+                "marginLeft": 3,
+                "width": 16,
+              },
+              Object {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          tintColor={4288823810}
+          vbHeight={24}
+          vbWidth={24}
+        >
+          <RNSVGGroup
+            propList={
+              Array [
+                "stroke",
+              ]
+            }
+            stroke={null}
+          >
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M21.748 3.25c.298-.005.591.082.84.248a1.5 1.5 0 0 1 .661 1.247v13.498a1.5 1.5 0 0 1-1.5 1.5c-5.373 0-7.484.999-8.688 2.194a.183.183 0 0 1-.313-.131V6.005c0-.216.094-.421.256-.563a6.685 6.685 0 0 1 1.514-.974c1.694-.81 4.06-1.204 7.23-1.218ZM2.25 3.25c3.169.014 5.536.41 7.23 1.218h-.001a6.694 6.694 0 0 1 1.513.975.745.745 0 0 1 .256.563v15.8a.193.193 0 0 1-.324.142c-2.002-1.892-5.343-2.203-8.674-2.203-.855 0-1.5-.684-1.5-1.59V4.744c0-.5.246-.966.66-1.245.248-.167.54-.255.84-.25Z"
+                fill={
+                  Array [
+                    2,
+                  ]
+                }
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={null}
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <View
+          accessibilityRole="progressbar"
+          accessibilityValue={
+            Object {
+              "max": 100,
+              "min": 0,
+              "now": 0,
+            }
+          }
+          accessible={true}
+          colorScheme="primary"
+          isIndeterminate={false}
+          style={
+            Object {
+              "backgroundColor": "#fecea4",
+              "borderRadius": 9999,
+              "flex": 1,
+              "height": 4,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eb6a00",
+                "display": "flex",
+                "elevation": 1,
+                "height": "100%",
+                "justifyContent": "center",
+                "shadowColor": "#000000",
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.18,
+                "shadowRadius": 1,
+                "width": "0%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <Text
+          numberOfLines={1}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#c24e00",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 11,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 16.5,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          0%
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginTop": 8,
+          }
+        }
+      >
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#fafaf9",
+              "fontFamily": "HaasGrotTextRApp-65Medium",
+              "fontSize": 14,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 21,
+              "textDecorationLine": undefined,
+            }
+          }
+          testID="bookTitle"
+        >
+          Angels and Demons
+        </Text>
+        <View
+          style={Object {}}
+        />
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#2ba692",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 12,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 18,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          J. K. Rowling
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders owned book correctly 1`] = `
+<View
+  onDownload={[MockFunction]}
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Angels and Demons\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Angels and Demons\\" book cover"
+          alt="\\"Angels and Demons\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "width": 117,
+        }
+      }
+      testID="bookStatusSectionContainer"
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginTop": 8,
+          }
+        }
+      >
+        <RNSVGSvgView
+          accessibilityRole="image"
+          align="xMidYMid"
+          bbHeight={16}
+          bbWidth={16}
+          color={4288823810}
+          focusable={false}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          stroke=""
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "color": "#a24202",
+                "height": 16,
+                "marginLeft": 3,
+                "width": 16,
+              },
+              Object {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          tintColor={4288823810}
+          vbHeight={24}
+          vbWidth={24}
+        >
+          <RNSVGGroup
+            propList={
+              Array [
+                "stroke",
+              ]
+            }
+            stroke={null}
+          >
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M21.748 3.25c.298-.005.591.082.84.248a1.5 1.5 0 0 1 .661 1.247v13.498a1.5 1.5 0 0 1-1.5 1.5c-5.373 0-7.484.999-8.688 2.194a.183.183 0 0 1-.313-.131V6.005c0-.216.094-.421.256-.563a6.685 6.685 0 0 1 1.514-.974c1.694-.81 4.06-1.204 7.23-1.218ZM2.25 3.25c3.169.014 5.536.41 7.23 1.218h-.001a6.694 6.694 0 0 1 1.513.975.745.745 0 0 1 .256.563v15.8a.193.193 0 0 1-.324.142c-2.002-1.892-5.343-2.203-8.674-2.203-.855 0-1.5-.684-1.5-1.59V4.744c0-.5.246-.966.66-1.245.248-.167.54-.255.84-.25Z"
+                fill={
+                  Array [
+                    2,
+                  ]
+                }
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={null}
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <View
+          accessibilityRole="progressbar"
+          accessibilityValue={
+            Object {
+              "max": 100,
+              "min": 0,
+              "now": 22,
+            }
+          }
+          accessible={true}
+          colorScheme="primary"
+          isIndeterminate={false}
+          style={
+            Object {
+              "backgroundColor": "#fecea4",
+              "borderRadius": 9999,
+              "flex": 1,
+              "height": 4,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eb6a00",
+                "display": "flex",
+                "elevation": 1,
+                "height": "100%",
+                "justifyContent": "center",
+                "shadowColor": "#000000",
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.18,
+                "shadowRadius": 1,
+                "width": "22%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <Text
+          numberOfLines={1}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#c24e00",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 11,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 16.5,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          22%
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginTop": 8,
+          }
+        }
+      >
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#fafaf9",
+              "fontFamily": "HaasGrotTextRApp-65Medium",
+              "fontSize": 14,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 21,
+              "textDecorationLine": undefined,
+            }
+          }
+          testID="bookTitle"
+        >
+          Angels and Demons
+        </Text>
+        <View
+          style={Object {}}
+        />
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#2ba692",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 12,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 18,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          J. K. Rowling
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders progress correctly 1`] = `
+<View
+  onRemoveFromDevice={[MockFunction]}
+  style={Object {}}
+>
+  <View
+    accessibilityLabel="\\"Angels and Demons\\" book card"
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onHoverIn={[Function]}
+    onHoverOut={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={Object {}}
+  >
+    <View
+      style={Object {}}
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "height": 176,
+            },
+            Object {
+              "aspectRatio": 0.6402439024390244,
+            },
+          ]
+        }
+      >
+        <Image
+          _text={
+            Object {
+              "color": "lightText",
+            }
+          }
+          accessibilityLabel="\\"Angels and Demons\\" book cover"
+          alt="\\"Angels and Demons\\" book cover"
+          onError={[Function]}
+          source={
+            Object {
+              "uri": "https://picsum.photos/200/300.jpg",
+            }
+          }
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#000000",
+                "borderRadius": 8,
+                "maxWidth": "100%",
+              },
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-start",
+            "bottom": 8,
+            "flexDirection": "column",
+            "left": 8,
+            "position": "absolute",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "width": 117,
+        }
+      }
+      testID="bookStatusSectionContainer"
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginTop": 8,
+          }
+        }
+      >
+        <RNSVGSvgView
+          accessibilityRole="image"
+          align="xMidYMid"
+          bbHeight={16}
+          bbWidth={16}
+          color={4288823810}
+          focusable={false}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          stroke=""
+          style={
+            Array [
+              Object {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              Object {
+                "color": "#a24202",
+                "height": 16,
+                "marginLeft": 3,
+                "width": 16,
+              },
+              Object {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          tintColor={4288823810}
+          vbHeight={24}
+          vbWidth={24}
+        >
+          <RNSVGGroup
+            propList={
+              Array [
+                "stroke",
+              ]
+            }
+            stroke={null}
+          >
+            <RNSVGGroup>
+              <RNSVGPath
+                d="M21.748 3.25c.298-.005.591.082.84.248a1.5 1.5 0 0 1 .661 1.247v13.498a1.5 1.5 0 0 1-1.5 1.5c-5.373 0-7.484.999-8.688 2.194a.183.183 0 0 1-.313-.131V6.005c0-.216.094-.421.256-.563a6.685 6.685 0 0 1 1.514-.974c1.694-.81 4.06-1.204 7.23-1.218ZM2.25 3.25c3.169.014 5.536.41 7.23 1.218h-.001a6.694 6.694 0 0 1 1.513.975.745.745 0 0 1 .256.563v15.8a.193.193 0 0 1-.324.142c-2.002-1.892-5.343-2.203-8.674-2.203-.855 0-1.5-.684-1.5-1.59V4.744c0-.5.246-.966.66-1.245.248-.167.54-.255.84-.25Z"
+                fill={
+                  Array [
+                    2,
+                  ]
+                }
+                propList={
+                  Array [
+                    "fill",
+                    "stroke",
+                  ]
+                }
+                stroke={null}
+              />
+            </RNSVGGroup>
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <View
+          accessibilityRole="progressbar"
+          accessibilityValue={
+            Object {
+              "max": 100,
+              "min": 0,
+              "now": 22,
+            }
+          }
+          accessible={true}
+          colorScheme="primary"
+          isIndeterminate={false}
+          style={
+            Object {
+              "backgroundColor": "#fecea4",
+              "borderRadius": 9999,
+              "flex": 1,
+              "height": 4,
+              "overflow": "hidden",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#eb6a00",
+                "display": "flex",
+                "elevation": 1,
+                "height": "100%",
+                "justifyContent": "center",
+                "shadowColor": "#000000",
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+                "shadowOpacity": 0.18,
+                "shadowRadius": 1,
+                "width": "22%",
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "width": 8,
+            }
+          }
+        />
+        <Text
+          numberOfLines={1}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#c24e00",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 11,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 16.5,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          22%
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "marginTop": 8,
+          }
+        }
+      >
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#fafaf9",
+              "fontFamily": "HaasGrotTextRApp-65Medium",
+              "fontSize": 14,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 21,
+              "textDecorationLine": undefined,
+            }
+          }
+          testID="bookTitle"
+        >
+          Angels and Demons
+        </Text>
+        <View
+          style={Object {}}
+        />
+        <Text
+          numberOfLines={2}
+          style={
+            Object {
+              "backgroundColor": undefined,
+              "color": "#2ba692",
+              "fontFamily": "HaasGrotTextRApp-55Roman",
+              "fontSize": 12,
+              "fontStyle": undefined,
+              "fontWeight": undefined,
+              "letterSpacing": 0,
+              "lineHeight": 18,
+              "textDecorationLine": undefined,
+            }
+          }
+        >
+          J. K. Rowling
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

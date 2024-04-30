@@ -1,0 +1,1 @@
+export const READING_PROGRESS_STEP = 0.05;

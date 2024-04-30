@@ -1,0 +1,8 @@
+mutation TriggerEmailConfirmation($email: String!) {
+  triggerEmailConfirmation(email: $email) {
+    ...on TriggerEmailConfirmationStatus {
+      success
+    }
+    ...error
+  }
+}

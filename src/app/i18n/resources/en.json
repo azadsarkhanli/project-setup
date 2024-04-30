@@ -1,0 +1,354 @@
+{
+  "catalog": {
+    "bookCard": {
+      "audiobook": "Audiobook",
+      "badgeNew": "New",
+      "coverImageAlt": "\"{{title}}\" book cover",
+      "ebook": "Ebook",
+      "label": "\"{{title}}\" book card",
+      "menu": {
+        "continueListening": "Continue listening",
+        "continueReading": "Continue reading",
+        "download": "Download",
+        "removeFromDevice": "Delete"
+      }
+    },
+    "downloadScreen": {
+      "author": "{{authors}}",
+      "download": "Download",
+      "downloadProgress": "{{progress}} downloaded",
+      "goBack": "Back"
+    },
+    "homeScreen": {
+      "recentBooks": {
+        "bookshelfLink": "Your Bookshelf",
+        "title": "Pick up where I left off"
+      },
+      "title": "Home"
+    },
+    "libraryScreen": {
+      "filters": {
+        "all": "All",
+        "audiobook": "Audiobook",
+        "ebook": "eBook"
+      },
+      "subtitle_one": "{{count}} book",
+      "subtitle_other": "{{count}} books",
+      "title": "Library"
+    },
+    "navigation": {
+      "home": "Home",
+      "library": "Library",
+      "profile": "My page",
+      "search": "Search"
+    },
+    "productScreen": {
+      "description": {
+        "readMore": "Read more",
+        "title": "Summary"
+      },
+      "download": {
+        "download": "Download",
+        "downloading": "Downloading",
+        "remove":  "Remove from device"
+      },
+      "features": {
+        "isbn": "ISBN",
+        "language": "Language",
+        "pages": "Pages",
+        "playTime": "Playback time",
+        "publisher": "Publisher",
+        "readerVoice": "Read by",
+        "releaseDate": "Published",
+        "seriesTitle": "Series",
+        "title_AUDIOBOOK": "Audiobook",
+        "title_EBOOK": "eBook"
+      },
+      "genres": "Genres",
+      "openAudiobook": "Play audiobook",
+      "openEbook": "Read book",
+      "purchase": {
+        "button": "Go to ARK.no",
+        "description": "When the purchase has been completed, the book will automatically appear in the app.",
+        "title": "E-book and audiobook are available at ARK.no"
+      }
+    },
+    "profileScreen": {
+      "appVersion": "Ark App version {{version}}",
+      "menuItems": {
+        "leaveFeedback": "Leave Feedback",
+        "logout": "Log out"
+      },
+      "title": "My page",
+      "userInfo": "Signed in as <1>{{email}}</1>"
+    }
+  },
+  "common": {
+    "alertRemoveConfirmation": {
+      "buttonCancel": "Cancel",
+      "buttonRemove": "Delete",
+      "removeAudiobookHeader": "Are you sure you want to delete the audiobook from your phone?",
+      "removeEbookHeader": "Are you sure you want to delete the e-book from your phone?"
+    },
+    "emptyScreen": {
+      "button": "Go to ARK.no",
+      "description": "E-books and audio books you buy on ARK.no will be displayed here",
+      "title": "Your library is empty"
+    },
+    "errorScreen": {
+      "clearDataAndRestartButton": "Log out and restart the app",
+      "default": {
+        "description": "We are experiencing something wrong with the machinery. Please restart the app.",
+        "title": "Oops, an error occurred"
+      },
+      "networkError": {
+        "description": "Please check your internet connection and try again.",
+        "title": "No internet connection"
+      },
+      "notFoundError": {
+        "description": "We could not find the product, please try again or choose another one.",
+        "title": "Oops, an error occurred"
+      },
+      "restartButton": "Restart the app",
+      "tryAgainButton": "Try again"
+    },
+    "errorToast": {
+      "default": {
+        "title": "Something went wrong"
+      },
+      "invalidCode": {
+        "title": "The code is invalid or expired"
+      }
+    },
+    "highlight": {
+      "date": "{{date, dateWithDow}}"
+    }
+  },
+  "onboarding": {
+    "appOutdated": {
+      "appOutdatedText": "You are using an outdated version of the ARK app, please update.",
+      "title": "Update the ARK app",
+      "updateButton": "Update"
+    },
+    "loginApprovalScreen": {
+      "error": {
+        "description": "Please check your internet connection and try again.",
+        "title": "Oops, something went wrong!"
+      },
+      "notReceivedText": "Not received e-mail? Remember to check your spam folder.",
+      "openEmailActionsheet": {
+        "message": "Open in",
+        "title": "Open e-mail"
+      },
+      "openEmailButton": "Open e-mail",
+      "resendButton": "Resend e-mail",
+      "subtitle": "We have sent you a link to log in to the app.",
+      "title": "Check your e-mail!"
+    },
+    "loginScreen": {
+      "label": "Your e-mail address",
+      "placeholder": "for@example.no",
+      "submit": "Get link to log in",
+      "subtitle": "Enter your e-mail and we will send you a link that logs you in automatically.",
+      "title": "Login",
+      "validation": {
+        "email": "E-mail address is invalid",
+        "required": "This field is required",
+        "userNotFound": "No ARK user found for that e-mail. Please try again or go back to create a user."
+      }
+    },
+    "registerNewUserScreen": {
+      "arkFriend": "I want to join ARK Friend and receive special discounts and recommendations",
+      "labels": {
+        "city": "City",
+        "confirmPassword": "Confirm Password",
+        "email": "E-mail",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "password": "Your Password",
+        "phone": "Phone",
+        "street": "Street",
+        "streetNumber": "Street number",
+        "zipCode": "Postal code"
+      },
+      "submit": "Submit",
+      "terms": "By registering, you agree to ",
+      "termsLink": "the terms of the service.",
+      "title": "Create user",
+      "validation": {
+        "email": "E-mail address is invalid",
+        "emailAlreadyInUse": "This email address is already in use.",
+        "genericFieldInvalid": "Value is invalid",
+        "passswordLength": "Minimum 8 characters",
+        "passwordMismatch": "Please check the spelling and try again.",
+        "phone": "Enter a valid telephone number in Norway, 8 digits without spaces.",
+        "required": "This field is required"
+      }
+    },
+    "welcomeNewUserScreen": {
+      "bokskyaImportTitle": "You don't come empty handed!",
+      "bokskyaImportTitleDescription": "You have {{numberOfBooks}} books already in place, you can find these in your library in the app.",
+      "finish": "Finish",
+      "next": "Next",
+      "registrationConfirmationDescription": "Read and listen to your books in the app",
+      "registrationConfirmationTitle": "Your account is ready to use"
+    },
+    "welcomeScreen": {
+      "body": "The e-books and audiobooks you have bought on ARK.no are automatically available in the app",
+      "heading": "Read and listen to your favorite books",
+      "loginButton": "Log in",
+      "loginButtonLabel": "\"Login\" button",
+      "registerButton": "Create user",
+      "registerButtonLabel": "\"Create user\" button"
+    }
+  },
+  "player": {
+    "audiobookSummary": {
+      "coverImageAltText": "Audiobook cover image"
+    },
+    "devicesMenu": {
+      "buttonListeningDevices": "Listening device"
+    },
+    "miniPlayer": {
+      "authorAndTitle": "{{author}} · {{title}}",
+      "leftDuration": "{{hours}}h {{minutes}}m {{seconds}}s left"
+    },
+    "playbackControls": {
+      "buttonBackwardLabel": "Jumps backward 15 seconds",
+      "buttonForwardLabel": "Jumps forward 30 seconds",
+      "buttonPauseLabel": "Pause the audiobook",
+      "buttonPlayLabel": "Play the audiobook"
+    },
+    "playbackProgress": {
+      "leftDuration": "- {{hours}}:{{minutes}}:{{seconds}}",
+      "leftTimeHint": "Time left",
+      "progressDuration": "{{hours}}:{{minutes}}:{{seconds}}",
+      "progressSliderLabel": "Playback progress slider",
+      "progressTimeHint": "Current playback time"
+    },
+    "playbackSettings": {
+      "speed": "Narration speed",
+      "speedSliderLabel": "Narration speed slider"
+    },
+    "playerMenu": {
+      "outline": {
+        "bookmarks": {
+          "bookmarkTime": "{{hours}}:{{minutes}}:{{seconds}}",
+          "buttonContinue": "Continue where I left",
+          "createdAt": "{{date, dateWithDow}}"
+        },
+        "titleBookmarks": "Bookmarks"
+      }
+    },
+    "publicationMenu": {
+      "alertRemove": {
+        "body": "The item will remain in your library but won't take up space on your device. You can download it again anytime to continue reading/listening.",
+        "buttonCancel": "Cancel",
+        "buttonRemove": "Remove",
+        "header": "Perform action?"
+      },
+      "alertRemoveConfirmation": {
+        "buttonGoToHome": "Go to home screen",
+        "header": "Item was deleted/removed"
+      },
+      "options": {
+        "about": "About this book",
+        "remove": "Delete"
+      }
+    },
+    "sleepTimer": {
+      "cancelButton": "Cancel",
+      "countdownLong": "{{hours}}:{{minutes}}:{{seconds}}",
+      "countdownShort": "{{minutes}}:{{seconds}}",
+      "optionLabel": "{{minutes}} minutes",
+      "title": "Sleep timer"
+    }
+  },
+  "reader": {
+    "bookmarks": {
+      "contextMenu": {
+        "delete": "Delete bookmark",
+        "navigate": "Go to bookmark"
+      },
+      "empty": "No bookmarks have been added"
+    },
+    "positionSlider": {
+      "label": "Page {{position}} of {{positionsCount}}"
+    },
+    "readerMenu": {
+      "bookmarks": {
+        "addConfirmation": "Bookmark added",
+        "buttonUndo": "Undo",
+        "label": "Bookmarks",
+        "removeConfirmation": "Bookmark removed."
+      },
+      "font": {
+        "label": "Font"
+      },
+      "outline": {
+        "bookmarks": {
+          "bookmarksCount_one": "{{count}} Bookmark",
+          "bookmarksCount_other": "{{count}} Bookmarks",
+          "buttonContinue": "Continue to furthest page read",
+          "createdAt": "{{date, dateWithDow}}",
+          "page": "PAGE {{count}}"
+        },
+        "tabBookmarks": "Bookmarks",
+        "tabTableOfContents": "Table of contents",
+        "tableOfContents": {
+          "readingNow": "Reading now"
+        }
+      },
+      "readingExperience": {
+        "autoNightMode": {
+          "label": "Auto Night Mode",
+          "switchLabel": "Automatic switching between night and day mode"
+        },
+        "colorMode": {
+          "defaultColorsLabel": "Default color palette",
+          "label": "Color Palette",
+          "nightColorsLabel": "Night colors palette",
+          "sepiaColorsLabel": "Sepia colors palette"
+        },
+        "displayBrightness": "Display brightness",
+        "fontFamily": "Font",
+        "fontSize": "Font size",
+        "label": "Reader settings",
+        "lineSpacing": "Line spacing"
+      },
+      "tableOfContents": {
+        "label": "Table of Contents"
+      }
+    }
+  },
+  "search": {
+    "bookResultCard": {
+      "noTitle": "No title"
+    },
+    "genreList": {
+      "showLess": "Show less",
+      "showMore": "Show more"
+    },
+    "search": "Search",
+    "searchBox": {
+      "placeholder": "Books, author, genre, or ISBN"
+    },
+    "searchQueryList": {
+      "clear": "Clear"
+    },
+    "searchScreen": {
+      "browseAllGenres": "Browse All Genres",
+      "callToAction": "Search for audiobooks and e-books from ARK",
+      "popularSearches": "Popular Searches",
+      "recentlySearched": "Recently Searched",
+      "results": "Results",
+      "yourTopGenres": "Your Top Genres"
+    }
+  },
+  "storybook": {
+    "keyWithCount_one": "{{count}} item",
+    "keyWithCount_other": "{{count}} items",
+    "key_one": "item",
+    "key_other": "items"
+  }
+}

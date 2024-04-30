@@ -1,0 +1,4 @@
+fragment translatedString on TranslatedString {
+  en
+  no
+}

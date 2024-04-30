@@ -1,0 +1,8 @@
+mutation VerifyEmailCode($email: String!, $code: String!) {
+  verifyEmailCode(email: $email, code: $code) {
+    ...on VerifyEmailCodeStatus {
+      success
+    }
+    ...error
+  }
+}

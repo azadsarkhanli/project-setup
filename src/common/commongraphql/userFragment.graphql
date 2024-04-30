@@ -1,0 +1,23 @@
+fragment user on User {
+  id
+  userInfo {
+    email
+    birthdate
+    name
+    firstName
+    lastName
+    phone
+    address {
+      street
+      streetNumber
+      zipCode
+      city
+    }
+    consents {
+      improvement
+      personalisation
+      statistics
+    }
+  }
+  status
+}

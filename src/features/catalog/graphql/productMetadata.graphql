@@ -1,0 +1,19 @@
+fragment productMetadata on ProductMetadata {
+  id
+  isbn
+  authorsFormatted
+  format
+  thumbnailUri
+  title
+  description
+  language
+  readerVoice
+  releaseDate
+  uniqueSellingPoint
+  genres
+  playTime
+  pages
+  publisher
+  seriesNumber
+  seriesTitle
+}

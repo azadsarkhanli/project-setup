@@ -1,0 +1,19 @@
+query ProductBundle($id: String!) {
+  productBundle(id: $id) {
+    ... on ProductBundle {
+      id
+      isbn
+      authorsFormatted
+      title
+      description
+      thumbnailUri
+      products {
+        id
+        metadata {
+          ...productMetadata
+        }
+      }
+    }
+    ...error
+  }
+}

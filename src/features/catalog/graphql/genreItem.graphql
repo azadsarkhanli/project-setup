@@ -1,0 +1,6 @@
+fragment genreItem on GenreItem {
+  name {
+    ...translatedString
+  }
+  key
+}

@@ -1,0 +1,22 @@
+query RemoteConfiguration {
+  configuration {
+    ... on ClientConfiguration {
+      minAppVersion
+      events {
+        sendEvents
+        host
+        token
+      }
+      feedback {
+        url
+      }
+      search {
+        appId
+        key
+        index
+        filter
+      }
+    }
+    ...error
+  }
+}

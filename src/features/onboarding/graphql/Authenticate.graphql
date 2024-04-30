@@ -1,0 +1,9 @@
+mutation Authenticate($code: String!, $codeVerifier: String) {
+  token(code: $code, codeVerifier: $codeVerifier) {
+    ...token
+    ...on UserNotFoundError {
+      email
+    }
+    ...error
+  }
+}

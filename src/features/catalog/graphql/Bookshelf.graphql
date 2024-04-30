@@ -1,0 +1,10 @@
+query Bookshelf {
+  bookshelf {
+    ... on PublicationList {
+      items {
+        ...publication
+      }
+    }
+    ...error
+  }
+}
